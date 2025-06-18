@@ -6,7 +6,8 @@ A desktop AI-powered code assistant inspired by GitHub Copilot and ChatGPT, buil
 
 ## ✨ Features
 
-- 💬 Real-time AI chat assistant integrated with GPT-3.5 Turbo via OpenRouter API  
+- 💬 Real-time AI chat assistant integrated with GPT-3.5 Turbo via OpenRouter API
+-  Deployed Link: https://cursor-ai-eosin.vercel.app/ 
 - 📝 Persistent chat history within session  
 - 🔄 Typing indicator animation and light/dark theme toggle  
 - 🕵️‍♂️ Custom hardcoded triggers (e.g., developer bio response)  
